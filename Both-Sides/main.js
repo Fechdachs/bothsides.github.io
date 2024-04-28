@@ -1,0 +1,1 @@
+location.href = "Both-Sides/home/index.html"
